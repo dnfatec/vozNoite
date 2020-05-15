@@ -33,6 +33,7 @@ private Locale locale;
         btFalar=(Button)findViewById(R.id.btnFalar);
         btOuvir=(Button)findViewById(R.id.btnOuvir);
         listaPalavras=(ListView)findViewById(R.id.lstPalavras);
+        Toast.makeText(); //Teste no lado do git
         botoes();    }
 
     @Override
